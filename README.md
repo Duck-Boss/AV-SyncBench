@@ -1,5 +1,7 @@
 # AV-SyncBench
 
+![AV-SyncBench overview](overview_img.png)
+
 Reproducible evaluation for **AV-SyncBench: Decoupled Benchmarking of Temporal
 and Semantic Audio-Visual Synchronization** (Interspeech 2026).
 
@@ -17,7 +19,7 @@ aggregation, environment, and error accounting explicit.
 Paper: [Interspeech 2026](https://www.isca-archive.org/interspeech_2026/zhou26g_interspeech.html)
 · [arXiv](https://arxiv.org/abs/2607.00726) · Dataset:
 [ModelScope](https://modelscope.cn/datasets/coming245/AVSyncBench) · Project:
-[website](https://fgt7t6g.github.io/AV-SyncBench/)
+[website](https://duck-boss.github.io/AV-SyncBench/)
 
 ## What is included
 
@@ -121,7 +123,7 @@ Please cite AV-SyncBench and each evaluated upstream model:
 ```
 
 Project and release updates are posted on the
-[AV-SyncBench website](https://fgt7t6g.github.io/AV-SyncBench/). Enable the
+[AV-SyncBench website](https://duck-boss.github.io/AV-SyncBench/). Enable the
 repository issue tracker before directing public replication reports there.
 
 ## Licenses and media rights

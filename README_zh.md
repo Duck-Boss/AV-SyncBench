@@ -1,5 +1,7 @@
 # AV-SyncBench 复现与评测
 
+![AV-SyncBench 概览](overview_img.png)
+
 本目录提供 AV-SyncBench（Interspeech 2026）从数据下载、样本校验、模型下载、
 预处理到结果汇总的完整复现入口。目前给出两套完整评测代码：
 
@@ -14,7 +16,8 @@
 论文：[Interspeech 2026 正式页面](https://www.isca-archive.org/interspeech_2026/zhou26g_interspeech.html)
 （1137–1141，DOI: `10.21437/Interspeech.2026-2177`）·
 [arXiv](https://arxiv.org/abs/2607.00726) ·
-[数据集](https://modelscope.cn/datasets/coming245/AVSyncBench)
+[数据集](https://modelscope.cn/datasets/coming245/AVSyncBench) ·
+[项目主页](https://duck-boss.github.io/AV-SyncBench/)
 
 ## 推荐阅读顺序
 
