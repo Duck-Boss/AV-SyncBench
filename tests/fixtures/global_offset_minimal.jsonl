@@ -1,0 +1,1 @@
+{"sample_id":"fixture-delay-500ms","original_video":"original_video/example.mp4","edited_audio":"edited_audio/example_delay_500ms.wav","task_type":"temporal_alignment","edit_type":"time_shifted","offset_ms":500,"direction":"delay","category":"fixture"}

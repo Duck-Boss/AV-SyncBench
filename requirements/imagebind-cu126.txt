@@ -1,0 +1,18 @@
+--index-url https://download.pytorch.org/whl/cu126
+--extra-index-url https://pypi.org/simple
+
+# PyTorch 2.10.0 is the first release patched for GHSA-63cw-57p8-fm3p.
+torch==2.10.0+cu126
+torchvision==0.25.0+cu126
+torchaudio==2.10.0+cu126
+
+# Decord is used directly; the adapter does not import ImageBind's old
+# PyTorchVideo/PyAV data stack.
+decord==0.6.0
+numpy==1.26.4
+timm==1.0.30
+ftfy==6.3.1
+regex==2026.9.10
+einops==0.8.2
+iopath==0.1.10
+portalocker==4.4.0

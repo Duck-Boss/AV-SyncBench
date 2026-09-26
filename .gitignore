@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+
+checkpoints/
+data/
+demo/data/
+outputs/
+third_party/
+*.part
+
