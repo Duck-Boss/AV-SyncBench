@@ -1,4 +1,4 @@
-# AV-SyncBench
+# AV-SyncBench: Decoupled Benchmarking of Temporal and Semantic Audio-Visual Synchronization
 
 ![AV-SyncBench overview](overview_img.png)
 
